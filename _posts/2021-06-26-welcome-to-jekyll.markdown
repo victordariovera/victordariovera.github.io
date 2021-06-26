@@ -5,7 +5,7 @@ date:   2021-06-26 00:59:23 -0300
 categories: jekyll update
 ---
 
-![image](/assets/homer.gif)
+![image](/assets/images/homer.gif)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
